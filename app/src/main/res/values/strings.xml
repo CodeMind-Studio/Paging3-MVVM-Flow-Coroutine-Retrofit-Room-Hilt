@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paging Rick And Morty</string>
+    <string name="person">person</string>
+</resources>
